@@ -24,9 +24,4 @@ BotaoEnviar.addEventListener('click', function (event) {
         }
     });
 
-    // Se quiser fazer algo diferente no sucesso, faz aqui
-    if (formularioValido) {
-        // Por exemplo: enviar o formulário via fetch, exibir um card, etc.
-        console.log('Formulário válido. Pronto para enviar!');
-    }
-});
+    

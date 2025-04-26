@@ -23,5 +23,5 @@ BotaoEnviar.addEventListener('click', function (event) {
             campo.classList.add('borda');
         }
     });
-
+})
     
